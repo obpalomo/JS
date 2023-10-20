@@ -9,9 +9,9 @@ console.log(z);
 
 // Iteración #2: Variables avanzadas
 // 1.1 Dado el siguiente javascript, cambia el valor de la propiedad age a 25.
-/* const character = {name: 'Jack Sparrow', age: 10};
+const character = {name: 'Jack Sparrow', age: 10};
 character.age=25
-console.log('Su edad ahora es', character.age) */
+console.log('Su edad ahora es', character.age)
 
 // 1.2 Declara 3 variables con los nombres y valores siguientes
 // 	firstName = 'Jon';

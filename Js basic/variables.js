@@ -1,11 +1,4 @@
-/* // Iteración #1: Variables */
-let myFavoriteHero='Hulk';
-let x=50;
-let h=5;
-let y=10;
 
-let z=h+y;
-console.log(z);
 
 /* // Iteración #2: Variables avanzadas
 // 1.1 Dado el siguiente javascript, cambia el valor de la propiedad age a 25. */
